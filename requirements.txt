@@ -4,3 +4,6 @@ Emoji
 tyep option
 colors
 vibrant
+
+Dark mode
+video call
